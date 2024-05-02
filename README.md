@@ -1,4 +1,4 @@
-# E-Commerce-Analysis-Project-
+# E-Commerce-Analysis-Project
 Analyze product sales, identify top sellers, understand customer behavior, and leverage sales trends for targeted marketing.
 
 ###  Goal and Problem Statment📋 :
@@ -21,7 +21,8 @@ Analyze product sales, identify top sellers, understand customer behavior, and l
 * Gather  Orders,  Customers, Product and Orders Details and Categories data from various sources like transactional databases and CRM systems.
 * Data Modeling for relationships between tables
   
-  ![Data Modeling](https://github.com/Anabil12/E-Commerce-Analysis-Project/assets/118571332/d17dee2d-2e06-4dcb-8476-8d0840ddd228)
+ ![Data Modeling](https://github.com/Anabil12/E-Commerce-Analysis-Project/assets/118571332/755ddd84-f7b7-4e87-ae6f-3e39bbb669f2)
+
 
 ### Data Cleaning and Preprocessing:
 * Cleanse and preprocess the gathered data to ensure consistency and accuracy.
@@ -37,19 +38,18 @@ Analyze product sales, identify top sellers, understand customer behavior, and l
 
   ### Sales Dashboard 📊📉
 
- ![Sales Dashborad](https://github.com/Anabil12/E-Commerce-Analysis-Project/assets/118571332/d370babf-c679-49f3-ae32-5cf3a41c093c)
+ ![Sales Dashborad](https://github.com/Anabil12/E-Commerce-Analysis-Project/assets/118571332/411b5d8a-8553-4e5b-bb01-e20f7b025665)
 
 ### Customer and Products Dashboard 📊📉
 
- ![Customer and Products](https://github.com/Anabil12/E-Commerce-Analysis-Project/assets/118571332/f1077225-de5c-46f9-a11c-0f0c48bba59e)
+![Customer and Products](https://github.com/Anabil12/E-Commerce-Analysis-Project/assets/118571332/7b62b174-08ca-467d-96cd-248f3d5ca8e5)
+
 ### Insights 📋
-![Insights](https://github.com/Anabil12/E-Commerce-Analysis-Project/assets/118571332/00e558b8-d17e-42a9-8772-7000bca71d29)
+![Insights](https://github.com/Anabil12/E-Commerce-Analysis-Project/assets/118571332/b483b049-bbc0-45a3-b1b0-fc7e4ee83644)
+
 
 ### presentation 📋
-https://github.com/Anabil12/E-Commerce-Analysis-Project/assets/118571332/b2d71c6c-f29d-43e9-8ef1-182847539580
+https://github.com/Anabil12/E-Commerce-Analysis-Project/assets/118571332/a4b0aa0d-de1d-4f76-815c-d113f7e19ddc
 
 
 
-### Actionable Insights and Recommendations:
-* Generate actionable insights and recommendations based on analysis findings.
-* Formulate strategies to improve sales performance, optimize marketing campaigns, and enhance customer satisfaction.
